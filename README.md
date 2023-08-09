@@ -1,5 +1,5 @@
 # Predicting Location-Based Green Energy Availability in Smart Buildings: A Case Study in Estonia
-A supporting library for our paper "Predicting Location-Based Green Energy Availability in Smart Buildings: A Case Study in Estonia"
+A supporting library for our paper [Predicting Location-Based Green Energy Availability in Smart Buildings: A Case Study in Estonia](https://doi.org/10.1016/j.measen.2022.100644)
 
 This repo contains the related code and the data.
 For further understanding please contact chinmaya.dehury@ut.ee
@@ -32,3 +32,21 @@ For further understanding please contact chinmaya.dehury@ut.ee
 - Matplotlib  3.2.2  
 - Seaborn  0.10.1 
 - XGBoost  1.5.0 
+
+
+If you publish something that usage this data/code, please refer this article as below:    
+``` markdown
+@article{HATAMIAN2023100644,
+  title = {Location-aware green energy availability forecasting for multiple time frames in smart buildings: The case of Estonia},
+  journal = {Measurement: Sensors},
+  volume = {25},
+  pages = {100644},
+  year = {2023},
+  issn = {2665-9174},
+  doi = {https://doi.org/10.1016/j.measen.2022.100644},
+  url = {https://www.sciencedirect.com/science/article/pii/S2665917422002781},
+  author = {Mehdi Hatamian and Bivas Panigrahi and Chinmaya Kumar Dehury},
+}
+```
+
+For more info, please see this open access article publish by Elsevier's "Measurement: Sensors", [PDF](https://doi.org/10.1016/j.measen.2022.100644). 
